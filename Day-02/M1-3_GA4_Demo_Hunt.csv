@@ -1,0 +1,7 @@
+question,metric_or_question,answer,report_or_path,source_boundary
+1,Combined prompt: channel with most sessions and highest engagement rate,85.45%,Email,Google Merchandise Store GA4 demo; saved worksheet pairs one number with the Email answer but does not distinguish which of the two metrics the number represents
+2,Most-viewed non-home page,8938,shop/apparel/mens,Google Merchandise Store GA4 demo; not Duolingo
+3,Most purchased item and item count,363,Google Eco Tee Black,Google Merchandise Store GA4 demo; not Duolingo
+4,Mobile vs desktop device counts,"62000 mobile; 36000 desktop",Reports → Tech → Tech overview,Google Merchandise Store GA4 demo; worksheet records counts, not percentages
+5,Country with most active users,29926,United States,Google Merchandise Store GA4 demo; not Duolingo
+6,Biggest funnel drop-off,98.84%,Screen / Page view,Google Merchandise Store GA4 demo; not Duolingo

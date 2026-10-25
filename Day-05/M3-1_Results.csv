@@ -1,0 +1,11 @@
+question,result,source_or_caveat
+HubSpot Champions count,"D4 practice: 12 of 50 sample contacts",Sheets alternative; HubSpot live import/segment not completed
+HubSpot At risk count,"D4 practice: 4 of 50 sample contacts",Sheets alternative; corrected from earlier 11; HubSpot live import/segment not completed
+MailerLite automation,"Signup blocked by rate limit/human verification; no account or automation created",Mailchimp free lacked the required multi-step flow; no paid plan used
+RFM top segments,"Champions: 57 customers, $76,108.57; At risk: 70, $55,675.91; Loyal: 82, $45,161.25",D4 fictional practice data
+RFM insight,"Champions highest revenue/customer: $1,335.24",D4 fictional practice data
+Logistic regression,"AUC 0.891; CA 84.7%; precision 71.4%; recall 46.1%",D5 practice; scikit-learn, stratified 70/30 split, 840 train / 360 test; not Orange
+Decision tree,"AUC 0.648; CA 76.9%; precision 45.1%; recall 42.1%",D5 practice; scikit-learn, same holdout; not Orange
+Top risk features,"tenure_months; days_since_last_login; sessions_last_30d",D5 practice logistic-regression standardized coefficient ranking; not Orange Nomogram
+Logistic regression confusion counts,"TP/caught 35; FN/missed 41; FP 14; TN 270",D5 practice test set n=360
+Decision tree confusion counts,"TP/caught 32; FN/missed 44; FP 39; TN 245",D5 practice test set n=360

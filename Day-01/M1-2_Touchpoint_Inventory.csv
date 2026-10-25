@@ -1,0 +1,13 @@
+row,touchpoint,channel,media_type,RACE_stage,url,observation
+1,LinguaLeap landing page,Website,Owned,Reach,https://lingualeap-lilac.vercel.app/,Introduces the app and its language courses.
+2,Start learning button,Website CTA,Owned,Act,https://lingualeap-lilac.vercel.app/,Guides visitors toward choosing a course.
+3,Course picker,Website,Owned,Act,https://lingualeap-lilac.vercel.app/courses,Lets learners explore five available languages.
+4,Sign-up page,Website form,Owned,Convert,https://lingualeap-lilac.vercel.app/signup,Allows new learners to create an account.
+5,Email OTP verification,Email,Owned,Convert,[redacted: one-time evidence URL],Verifies the learner's email during registration.
+6,Learning skill path,Website,Owned,Engage,https://lingualeap-lilac.vercel.app/learn,Shows lesson progress and what to learn next.
+7,Lesson exercises,Website,Owned,Engage,https://lingualeap-lilac.vercel.app/learn?course=cmuzt7e8g0000v8n4a4l9j13s,Gives learners interactive language practice.
+8,Listening Exercises,Website Audio,Owned,Engage,https://lingualeap-lilac.vercel.app/lesson/cmuzt7fkh0004v8n4cfgh4yf5,Lets learners listen and choose an answer.
+9,Lesson completion and XP,Website,Owned,Engage,https://lingualeap-lilac.vercel.app/learn?course=cmuztawpd00isv8n47ovieyf3,Shows lesson results and XP earned.
+10,Practice mode,Website,Owned,Engage,https://lingualeap-lilac.vercel.app/,Helps learners review questions they previously got wrong.
+11,Leaderboard,Website,Owned,Engage,https://lingualeap-lilac.vercel.app/leaderboard,Displays learners ranked by weekly XP.
+12,Learner shares the app link,WhatsApp or social media,Earned,Reach,https://lingualeap-lilac.vercel.app/,Helps introduce LinguaLeap to other learners.
