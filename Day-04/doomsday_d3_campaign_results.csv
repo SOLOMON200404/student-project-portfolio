@@ -1,0 +1,9 @@
+platform,campaign,objective,spend_usd,impressions,clicks,conversions,revenue_usd
+Google,Search - Brand,Sales,1200,18000,1450,96,9120
+Google,Search - Category,Sales,3400,95000,2300,74,6290
+Google,Performance Max,Sales,2800,410000,3100,61,5490
+Google,YouTube - Awareness,Awareness,2500,820000,2900,9,720
+Meta,Retargeting - Site visitors,Sales,1500,160000,2400,58,5220
+Meta,Prospecting - Interests,Sales,3000,640000,5600,42,3570
+Meta,Lookalike - Customers,Sales,2200,380000,3900,51,4590
+Meta,Reels - Awareness,Awareness,1800,1150000,4200,6,480

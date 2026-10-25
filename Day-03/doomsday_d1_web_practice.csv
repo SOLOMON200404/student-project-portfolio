@@ -1,0 +1,1441 @@
+date,channel,device,sessions,engaged_sessions,key_events,revenue
+2026-07-01,Organic Search,mobile,315,198,9,406.12
+2026-07-01,Organic Search,desktop,152,102,5,216.09
+2026-07-01,Paid Search,mobile,183,106,7,343.52
+2026-07-01,Paid Search,desktop,75,44,3,148.89
+2026-07-01,Paid Social,mobile,204,78,1,42.09
+2026-07-01,Paid Social,desktop,114,44,1,44.18
+2026-07-01,Organic Social,mobile,114,58,1,43.35
+2026-07-01,Organic Social,desktop,52,27,1,52.22
+2026-07-01,Email,mobile,65,48,3,149.19
+2026-07-01,Email,desktop,33,23,2,100.17
+2026-07-01,Direct,mobile,175,96,6,276.31
+2026-07-01,Direct,desktop,68,38,2,91.78
+2026-07-01,Referral,mobile,45,27,1,44.93
+2026-07-01,Referral,desktop,18,11,1,50.53
+2026-07-01,Unassigned,mobile,22,9,0,0.0
+2026-07-01,Unassigned,desktop,13,5,0,0.0
+2026-07-02,Organic Search,mobile,335,227,10,424.49
+2026-07-02,Organic Search,desktop,135,87,4,220.8
+2026-07-02,Paid Search,mobile,209,125,9,427.85
+2026-07-02,Paid Search,desktop,99,60,4,181.81
+2026-07-02,Paid Social,mobile,228,84,1,54.57
+2026-07-02,Paid Social,desktop,102,37,1,49.13
+2026-07-02,Organic Social,mobile,88,43,1,50.78
+2026-07-02,Organic Social,desktop,51,26,1,47.34
+2026-07-02,Email,mobile,74,52,4,216.2
+2026-07-02,Email,desktop,26,18,1,49.52
+2026-07-02,Direct,mobile,154,90,5,240.43
+2026-07-02,Direct,desktop,77,46,3,137.06
+2026-07-02,Referral,mobile,43,26,1,54.19
+2026-07-02,Referral,desktop,19,12,1,44.14
+2026-07-02,Unassigned,mobile,27,10,0,0.0
+2026-07-02,Unassigned,desktop,10,3,0,0.0
+2026-07-03,Organic Search,mobile,340,231,10,428.11
+2026-07-03,Organic Search,desktop,160,110,4,195.22
+2026-07-03,Paid Search,mobile,164,102,7,306.58
+2026-07-03,Paid Search,desktop,88,53,3,162.64
+2026-07-03,Paid Social,mobile,220,81,1,52.22
+2026-07-03,Paid Social,desktop,96,35,1,51.1
+2026-07-03,Organic Social,mobile,100,52,1,45.15
+2026-07-03,Organic Social,desktop,45,23,0,0.0
+2026-07-03,Email,mobile,57,41,2,109.35
+2026-07-03,Email,desktop,34,23,1,51.37
+2026-07-03,Direct,mobile,153,85,6,299.97
+2026-07-03,Direct,desktop,78,46,3,134.0
+2026-07-03,Referral,mobile,38,23,1,48.54
+2026-07-03,Referral,desktop,21,13,1,43.38
+2026-07-03,Unassigned,mobile,24,9,0,0.0
+2026-07-03,Unassigned,desktop,10,3,0,0.0
+2026-07-04,Organic Search,mobile,247,169,8,432.47
+2026-07-04,Organic Search,desktop,127,80,5,268.52
+2026-07-04,Paid Search,mobile,188,119,9,398.96
+2026-07-04,Paid Search,desktop,77,45,3,128.46
+2026-07-04,Paid Social,mobile,190,75,1,52.98
+2026-07-04,Paid Social,desktop,91,34,1,55.94
+2026-07-04,Organic Social,mobile,90,47,1,46.15
+2026-07-04,Organic Social,desktop,47,24,1,52.47
+2026-07-04,Email,mobile,49,35,2,107.88
+2026-07-04,Email,desktop,24,17,1,44.6
+2026-07-04,Direct,mobile,150,88,5,218.39
+2026-07-04,Direct,desktop,76,42,3,152.01
+2026-07-04,Referral,mobile,37,23,1,55.09
+2026-07-04,Referral,desktop,16,10,0,0.0
+2026-07-04,Unassigned,mobile,23,9,0,0.0
+2026-07-04,Unassigned,desktop,9,3,0,0.0
+2026-07-05,Organic Search,mobile,234,150,7,385.46
+2026-07-05,Organic Search,desktop,140,95,4,176.83
+2026-07-05,Paid Search,mobile,183,113,8,446.57
+2026-07-05,Paid Search,desktop,81,46,4,184.77
+2026-07-05,Paid Social,mobile,208,82,1,43.62
+2026-07-05,Paid Social,desktop,82,31,0,0.0
+2026-07-05,Organic Social,mobile,95,47,1,45.7
+2026-07-05,Organic Social,desktop,42,22,1,43.29
+2026-07-05,Email,mobile,56,38,2,105.59
+2026-07-05,Email,desktop,28,19,1,49.72
+2026-07-05,Direct,mobile,143,78,4,217.45
+2026-07-05,Direct,desktop,77,44,3,150.47
+2026-07-05,Referral,mobile,34,20,1,54.59
+2026-07-05,Referral,desktop,19,12,1,44.94
+2026-07-05,Unassigned,mobile,20,7,0,0.0
+2026-07-05,Unassigned,desktop,10,4,0,0.0
+2026-07-06,Organic Search,mobile,344,237,12,652.08
+2026-07-06,Organic Search,desktop,125,84,4,220.13
+2026-07-06,Paid Search,mobile,209,132,9,411.62
+2026-07-06,Paid Search,desktop,98,57,4,216.08
+2026-07-06,Paid Social,mobile,209,81,1,46.27
+2026-07-06,Paid Social,desktop,117,43,1,44.7
+2026-07-06,Organic Social,mobile,98,52,1,45.91
+2026-07-06,Organic Social,desktop,50,25,1,49.51
+2026-07-06,Email,mobile,75,51,4,178.0
+2026-07-06,Email,desktop,35,24,1,48.08
+2026-07-06,Direct,mobile,181,103,7,344.12
+2026-07-06,Direct,desktop,77,45,2,103.85
+2026-07-06,Referral,mobile,37,24,1,52.07
+2026-07-06,Referral,desktop,22,14,1,42.98
+2026-07-06,Unassigned,mobile,27,10,0,0.0
+2026-07-06,Unassigned,desktop,12,4,0,0.0
+2026-07-07,Organic Search,mobile,302,195,9,430.98
+2026-07-07,Organic Search,desktop,166,111,6,303.7
+2026-07-07,Paid Search,mobile,181,110,6,276.1
+2026-07-07,Paid Search,desktop,88,54,4,194.04
+2026-07-07,Paid Social,mobile,226,83,1,54.62
+2026-07-07,Paid Social,desktop,117,42,1,49.22
+2026-07-07,Organic Social,mobile,108,55,1,52.52
+2026-07-07,Organic Social,desktop,51,25,1,42.34
+2026-07-07,Email,mobile,61,43,3,129.06
+2026-07-07,Email,desktop,30,21,1,51.75
+2026-07-07,Direct,mobile,170,96,6,252.47
+2026-07-07,Direct,desktop,86,51,3,143.86
+2026-07-07,Referral,mobile,40,26,1,42.7
+2026-07-07,Referral,desktop,19,12,1,53.22
+2026-07-07,Unassigned,mobile,27,11,0,0.0
+2026-07-07,Unassigned,desktop,13,5,0,0.0
+2026-07-08,Organic Search,mobile,344,228,12,628.93
+2026-07-08,Organic Search,desktop,146,94,4,203.71
+2026-07-08,Paid Search,mobile,209,127,9,412.6
+2026-07-08,Paid Search,desktop,79,47,3,139.43
+2026-07-08,Paid Social,mobile,233,85,1,51.72
+2026-07-08,Paid Social,desktop,115,41,1,49.6
+2026-07-08,Organic Social,mobile,101,50,1,54.67
+2026-07-08,Organic Social,desktop,50,26,1,52.72
+2026-07-08,Email,mobile,64,43,3,157.65
+2026-07-08,Email,desktop,34,25,1,52.47
+2026-07-08,Direct,mobile,173,101,6,270.43
+2026-07-08,Direct,desktop,79,43,3,154.52
+2026-07-08,Referral,mobile,43,26,1,43.79
+2026-07-08,Referral,desktop,21,12,1,49.9
+2026-07-08,Unassigned,mobile,22,8,0,0.0
+2026-07-08,Unassigned,desktop,10,3,0,0.0
+2026-07-09,Organic Search,mobile,339,221,12,643.76
+2026-07-09,Organic Search,desktop,137,86,4,198.21
+2026-07-09,Paid Search,mobile,223,133,10,529.37
+2026-07-09,Paid Search,desktop,95,59,4,179.16
+2026-07-09,Paid Social,mobile,198,72,1,51.37
+2026-07-09,Paid Social,desktop,111,40,1,52.74
+2026-07-09,Organic Social,mobile,94,49,1,43.6
+2026-07-09,Organic Social,desktop,54,29,1,42.36
+2026-07-09,Email,mobile,63,45,3,142.66
+2026-07-09,Email,desktop,33,22,2,101.56
+2026-07-09,Direct,mobile,151,89,6,302.43
+2026-07-09,Direct,desktop,71,43,3,140.58
+2026-07-09,Referral,mobile,43,26,1,46.78
+2026-07-09,Referral,desktop,23,14,1,55.45
+2026-07-09,Unassigned,mobile,27,11,0,0.0
+2026-07-09,Unassigned,desktop,13,5,0,0.0
+2026-07-10,Organic Search,mobile,319,210,10,522.34
+2026-07-10,Organic Search,desktop,138,94,5,216.07
+2026-07-10,Paid Search,mobile,217,128,9,454.9
+2026-07-10,Paid Search,desktop,88,51,4,178.18
+2026-07-10,Paid Social,mobile,213,83,1,54.32
+2026-07-10,Paid Social,desktop,116,43,1,55.27
+2026-07-10,Organic Social,mobile,92,48,1,52.61
+2026-07-10,Organic Social,desktop,52,27,1,53.1
+2026-07-10,Email,mobile,59,40,3,138.86
+2026-07-10,Email,desktop,32,22,1,47.96
+2026-07-10,Direct,mobile,185,105,7,320.55
+2026-07-10,Direct,desktop,75,41,2,87.35
+2026-07-10,Referral,mobile,45,29,1,45.03
+2026-07-10,Referral,desktop,21,13,1,49.34
+2026-07-10,Unassigned,mobile,24,9,0,0.0
+2026-07-10,Unassigned,desktop,11,4,0,0.0
+2026-07-11,Organic Search,mobile,316,209,11,481.45
+2026-07-11,Organic Search,desktop,144,94,5,250.18
+2026-07-11,Paid Search,mobile,170,103,6,256.32
+2026-07-11,Paid Search,desktop,91,55,4,190.44
+2026-07-11,Paid Social,mobile,178,68,1,44.09
+2026-07-11,Paid Social,desktop,98,36,1,43.66
+2026-07-11,Organic Social,mobile,99,52,1,45.16
+2026-07-11,Organic Social,desktop,43,22,1,54.04
+2026-07-11,Email,mobile,68,47,3,151.6
+2026-07-11,Email,desktop,29,21,1,44.95
+2026-07-11,Direct,mobile,159,89,5,215.25
+2026-07-11,Direct,desktop,60,34,2,92.16
+2026-07-11,Referral,mobile,36,23,1,48.36
+2026-07-11,Referral,desktop,19,12,1,50.75
+2026-07-11,Unassigned,mobile,24,10,0,0.0
+2026-07-11,Unassigned,desktop,11,4,0,0.0
+2026-07-12,Organic Search,mobile,250,161,9,449.72
+2026-07-12,Organic Search,desktop,122,77,4,207.19
+2026-07-12,Paid Search,mobile,195,118,8,345.01
+2026-07-12,Paid Search,desktop,70,42,3,136.52
+2026-07-12,Paid Social,mobile,180,71,1,50.05
+2026-07-12,Paid Social,desktop,109,43,1,45.77
+2026-07-12,Organic Social,mobile,80,42,1,51.12
+2026-07-12,Organic Social,desktop,49,24,1,50.89
+2026-07-12,Email,mobile,59,40,3,140.0
+2026-07-12,Email,desktop,29,21,1,51.71
+2026-07-12,Direct,mobile,142,86,5,248.51
+2026-07-12,Direct,desktop,70,39,2,111.17
+2026-07-12,Referral,mobile,38,23,1,51.21
+2026-07-12,Referral,desktop,18,11,0,0.0
+2026-07-12,Unassigned,mobile,25,10,0,0.0
+2026-07-12,Unassigned,desktop,11,4,0,0.0
+2026-07-13,Organic Search,mobile,283,195,9,408.15
+2026-07-13,Organic Search,desktop,135,89,4,173.22
+2026-07-13,Paid Search,mobile,227,144,9,392.8
+2026-07-13,Paid Search,desktop,102,62,4,196.5
+2026-07-13,Paid Social,mobile,220,86,2,90.82
+2026-07-13,Paid Social,desktop,112,42,1,49.12
+2026-07-13,Organic Social,mobile,118,63,1,53.06
+2026-07-13,Organic Social,desktop,48,26,1,53.49
+2026-07-13,Email,mobile,64,44,3,167.95
+2026-07-13,Email,desktop,32,21,1,46.83
+2026-07-13,Direct,mobile,178,103,6,279.03
+2026-07-13,Direct,desktop,74,43,3,135.81
+2026-07-13,Referral,mobile,49,29,1,51.87
+2026-07-13,Referral,desktop,23,14,1,53.49
+2026-07-13,Unassigned,mobile,30,11,0,0.0
+2026-07-13,Unassigned,desktop,12,4,0,0.0
+2026-07-14,Organic Search,mobile,324,212,11,525.14
+2026-07-14,Organic Search,desktop,158,100,5,277.84
+2026-07-14,Paid Search,mobile,189,117,8,431.4
+2026-07-14,Paid Search,desktop,103,65,4,185.73
+2026-07-14,Paid Social,mobile,252,98,2,85.01
+2026-07-14,Paid Social,desktop,97,37,1,55.96
+2026-07-14,Organic Social,mobile,115,59,1,50.87
+2026-07-14,Organic Social,desktop,56,28,1,54.65
+2026-07-14,Email,mobile,59,43,2,94.5
+2026-07-14,Email,desktop,28,19,1,53.1
+2026-07-14,Direct,mobile,158,87,6,304.06
+2026-07-14,Direct,desktop,76,45,2,96.91
+2026-07-14,Referral,mobile,42,25,1,53.26
+2026-07-14,Referral,desktop,24,15,1,48.18
+2026-07-14,Unassigned,mobile,25,10,0,0.0
+2026-07-14,Unassigned,desktop,11,4,0,0.0
+2026-07-15,Organic Search,mobile,321,206,10,500.47
+2026-07-15,Organic Search,desktop,174,112,6,307.29
+2026-07-15,Paid Search,mobile,186,114,8,419.4
+2026-07-15,Paid Search,desktop,81,49,3,163.97
+2026-07-15,Paid Social,mobile,223,87,1,46.93
+2026-07-15,Paid Social,desktop,116,44,1,52.09
+2026-07-15,Organic Social,mobile,112,60,1,54.65
+2026-07-15,Organic Social,desktop,52,26,1,50.11
+2026-07-15,Email,mobile,74,50,3,157.39
+2026-07-15,Email,desktop,29,19,1,55.6
+2026-07-15,Direct,mobile,178,107,7,319.18
+2026-07-15,Direct,desktop,91,52,3,157.36
+2026-07-15,Referral,mobile,43,26,1,43.97
+2026-07-15,Referral,desktop,24,15,1,55.72
+2026-07-15,Unassigned,mobile,30,12,0,0.0
+2026-07-15,Unassigned,desktop,10,4,0,0.0
+2026-07-16,Organic Search,mobile,340,226,12,661.97
+2026-07-16,Organic Search,desktop,134,86,4,217.52
+2026-07-16,Paid Search,mobile,204,129,8,343.08
+2026-07-16,Paid Search,desktop,103,65,4,190.86
+2026-07-16,Paid Social,mobile,213,84,1,48.9
+2026-07-16,Paid Social,desktop,98,38,1,48.35
+2026-07-16,Organic Social,mobile,113,60,2,95.74
+2026-07-16,Organic Social,desktop,54,27,1,43.39
+2026-07-16,Email,mobile,69,48,4,169.83
+2026-07-16,Email,desktop,31,21,2,107.95
+2026-07-16,Direct,mobile,156,92,6,334.14
+2026-07-16,Direct,desktop,79,45,3,131.13
+2026-07-16,Referral,mobile,51,31,1,50.98
+2026-07-16,Referral,desktop,22,13,1,45.41
+2026-07-16,Unassigned,mobile,23,9,0,0.0
+2026-07-16,Unassigned,desktop,11,4,0,0.0
+2026-07-17,Organic Search,mobile,291,199,8,432.14
+2026-07-17,Organic Search,desktop,136,86,4,177.77
+2026-07-17,Paid Search,mobile,211,122,7,371.42
+2026-07-17,Paid Search,desktop,87,52,3,128.2
+2026-07-17,Paid Social,mobile,257,97,2,97.33
+2026-07-17,Paid Social,desktop,122,46,1,49.05
+2026-07-17,Organic Social,mobile,122,60,2,108.28
+2026-07-17,Organic Social,desktop,51,26,1,42.85
+2026-07-17,Email,mobile,69,48,3,146.59
+2026-07-17,Email,desktop,36,24,1,50.52
+2026-07-17,Direct,mobile,154,87,6,298.06
+2026-07-17,Direct,desktop,79,48,3,145.06
+2026-07-17,Referral,mobile,47,28,1,53.94
+2026-07-17,Referral,desktop,22,14,1,45.01
+2026-07-17,Unassigned,mobile,26,10,0,0.0
+2026-07-17,Unassigned,desktop,12,4,0,0.0
+2026-07-18,Organic Search,mobile,275,175,10,429.4
+2026-07-18,Organic Search,desktop,148,93,4,209.37
+2026-07-18,Paid Search,mobile,194,119,8,398.9
+2026-07-18,Paid Search,desktop,79,46,3,153.94
+2026-07-18,Paid Social,mobile,227,89,1,55.56
+2026-07-18,Paid Social,desktop,102,38,1,44.98
+2026-07-18,Organic Social,mobile,100,50,1,53.84
+2026-07-18,Organic Social,desktop,43,22,1,53.3
+2026-07-18,Email,mobile,67,49,3,151.77
+2026-07-18,Email,desktop,30,20,2,107.22
+2026-07-18,Direct,mobile,146,81,5,231.63
+2026-07-18,Direct,desktop,70,38,3,149.79
+2026-07-18,Referral,mobile,39,23,1,42.43
+2026-07-18,Referral,desktop,20,12,1,46.77
+2026-07-18,Unassigned,mobile,22,8,0,0.0
+2026-07-18,Unassigned,desktop,9,3,0,0.0
+2026-07-19,Organic Search,mobile,302,194,10,487.99
+2026-07-19,Organic Search,desktop,133,85,5,217.97
+2026-07-19,Paid Search,mobile,174,103,8,390.5
+2026-07-19,Paid Search,desktop,88,51,3,151.17
+2026-07-19,Paid Social,mobile,181,67,1,43.92
+2026-07-19,Paid Social,desktop,92,34,0,0.0
+2026-07-19,Organic Social,mobile,86,44,1,49.0
+2026-07-19,Organic Social,desktop,49,26,1,54.06
+2026-07-19,Email,mobile,53,35,3,162.21
+2026-07-19,Email,desktop,29,20,1,47.85
+2026-07-19,Direct,mobile,139,76,5,266.09
+2026-07-19,Direct,desktop,76,45,3,129.7
+2026-07-19,Referral,mobile,45,27,1,49.34
+2026-07-19,Referral,desktop,18,11,0,0.0
+2026-07-19,Unassigned,mobile,21,8,0,0.0
+2026-07-19,Unassigned,desktop,12,4,0,0.0
+2026-07-20,Organic Search,mobile,360,231,10,447.62
+2026-07-20,Organic Search,desktop,159,107,5,222.4
+2026-07-20,Paid Search,mobile,220,134,10,526.38
+2026-07-20,Paid Search,desktop,94,59,4,203.58
+2026-07-20,Paid Social,mobile,251,98,2,88.23
+2026-07-20,Paid Social,desktop,99,37,1,45.85
+2026-07-20,Organic Social,mobile,95,49,1,48.33
+2026-07-20,Organic Social,desktop,44,23,0,0.0
+2026-07-20,Email,mobile,78,56,4,193.91
+2026-07-20,Email,desktop,33,24,2,96.59
+2026-07-20,Direct,mobile,196,115,6,291.95
+2026-07-20,Direct,desktop,75,41,2,109.18
+2026-07-20,Referral,mobile,44,28,1,44.42
+2026-07-20,Referral,desktop,20,12,1,49.32
+2026-07-20,Unassigned,mobile,24,9,0,0.0
+2026-07-20,Unassigned,desktop,12,4,0,0.0
+2026-07-21,Organic Search,mobile,287,181,10,459.78
+2026-07-21,Organic Search,desktop,165,110,6,325.36
+2026-07-21,Paid Search,mobile,194,119,7,328.28
+2026-07-21,Paid Search,desktop,109,67,4,201.32
+2026-07-21,Paid Social,mobile,275,102,2,106.17
+2026-07-21,Paid Social,desktop,125,48,1,52.34
+2026-07-21,Organic Social,mobile,116,60,1,47.93
+2026-07-21,Organic Social,desktop,49,25,1,45.0
+2026-07-21,Email,mobile,80,56,3,131.78
+2026-07-21,Email,desktop,29,21,1,52.79
+2026-07-21,Direct,mobile,199,119,6,280.29
+2026-07-21,Direct,desktop,91,50,3,132.81
+2026-07-21,Referral,mobile,51,33,2,88.64
+2026-07-21,Referral,desktop,21,13,1,45.33
+2026-07-21,Unassigned,mobile,27,10,0,0.0
+2026-07-21,Unassigned,desktop,13,5,0,0.0
+2026-07-22,Organic Search,mobile,364,237,13,725.17
+2026-07-22,Organic Search,desktop,154,99,5,246.92
+2026-07-22,Paid Search,mobile,233,146,10,439.38
+2026-07-22,Paid Search,desktop,89,55,4,199.05
+2026-07-22,Paid Social,mobile,215,84,1,45.99
+2026-07-22,Paid Social,desktop,124,46,1,44.06
+2026-07-22,Organic Social,mobile,108,58,1,48.32
+2026-07-22,Organic Social,desktop,49,24,1,49.03
+2026-07-22,Email,mobile,65,48,3,127.18
+2026-07-22,Email,desktop,37,27,2,106.16
+2026-07-22,Direct,mobile,161,91,6,310.47
+2026-07-22,Direct,desktop,76,44,3,126.22
+2026-07-22,Referral,mobile,41,25,1,49.68
+2026-07-22,Referral,desktop,23,14,1,46.03
+2026-07-22,Unassigned,mobile,25,9,0,0.0
+2026-07-22,Unassigned,desktop,12,4,0,0.0
+2026-07-23,Organic Search,mobile,284,187,8,352.08
+2026-07-23,Organic Search,desktop,153,102,5,239.16
+2026-07-23,Paid Search,mobile,215,125,10,429.48
+2026-07-23,Paid Search,desktop,97,59,5,248.79
+2026-07-23,Paid Social,mobile,237,89,1,55.73
+2026-07-23,Paid Social,desktop,106,38,1,46.83
+2026-07-23,Organic Social,mobile,118,62,2,104.59
+2026-07-23,Organic Social,desktop,49,24,1,53.39
+2026-07-23,Email,mobile,64,46,3,155.21
+2026-07-23,Email,desktop,34,24,1,52.87
+2026-07-23,Direct,mobile,179,101,5,223.96
+2026-07-23,Direct,desktop,73,44,3,167.54
+2026-07-23,Referral,mobile,48,29,1,44.68
+2026-07-23,Referral,desktop,21,13,1,46.65
+2026-07-23,Unassigned,mobile,24,9,0,0.0
+2026-07-23,Unassigned,desktop,14,5,0,0.0
+2026-07-24,Organic Search,mobile,333,229,11,585.38
+2026-07-24,Organic Search,desktop,167,105,6,321.08
+2026-07-24,Paid Search,mobile,209,125,7,358.77
+2026-07-24,Paid Search,desktop,91,56,4,206.63
+2026-07-24,Paid Social,mobile,235,85,2,93.87
+2026-07-24,Paid Social,desktop,133,49,1,55.27
+2026-07-24,Organic Social,mobile,97,51,1,53.22
+2026-07-24,Organic Social,desktop,55,29,1,50.51
+2026-07-24,Email,mobile,77,52,3,158.7
+2026-07-24,Email,desktop,32,22,1,50.47
+2026-07-24,Direct,mobile,192,116,6,316.1
+2026-07-24,Direct,desktop,87,50,3,153.28
+2026-07-24,Referral,mobile,44,26,1,48.99
+2026-07-24,Referral,desktop,21,13,1,45.64
+2026-07-24,Unassigned,mobile,27,11,0,0.0
+2026-07-24,Unassigned,desktop,13,5,0,0.0
+2026-07-25,Organic Search,mobile,329,215,9,463.92
+2026-07-25,Organic Search,desktop,152,98,5,214.55
+2026-07-25,Paid Search,mobile,184,116,8,415.72
+2026-07-25,Paid Search,desktop,96,59,4,196.49
+2026-07-25,Paid Social,mobile,192,70,1,53.07
+2026-07-25,Paid Social,desktop,87,33,1,53.25
+2026-07-25,Organic Social,mobile,99,52,1,46.33
+2026-07-25,Organic Social,desktop,53,28,1,52.77
+2026-07-25,Email,mobile,69,46,4,203.97
+2026-07-25,Email,desktop,29,20,1,54.29
+2026-07-25,Direct,mobile,174,102,6,333.17
+2026-07-25,Direct,desktop,74,44,2,87.48
+2026-07-25,Referral,mobile,37,22,1,51.93
+2026-07-25,Referral,desktop,18,11,1,53.84
+2026-07-25,Unassigned,mobile,22,8,0,0.0
+2026-07-25,Unassigned,desktop,10,4,0,0.0
+2026-07-26,Organic Search,mobile,334,212,11,572.98
+2026-07-26,Organic Search,desktop,143,97,5,267.77
+2026-07-26,Paid Search,mobile,157,91,7,350.52
+2026-07-26,Paid Search,desktop,90,56,4,203.78
+2026-07-26,Paid Social,mobile,218,83,1,55.39
+2026-07-26,Paid Social,desktop,102,39,1,46.16
+2026-07-26,Organic Social,mobile,85,42,1,48.78
+2026-07-26,Organic Social,desktop,42,22,0,0.0
+2026-07-26,Email,mobile,67,49,3,131.49
+2026-07-26,Email,desktop,28,20,1,48.53
+2026-07-26,Direct,mobile,150,84,5,230.31
+2026-07-26,Direct,desktop,73,42,2,108.23
+2026-07-26,Referral,mobile,37,22,1,46.38
+2026-07-26,Referral,desktop,21,13,1,48.98
+2026-07-26,Unassigned,mobile,23,8,0,0.0
+2026-07-26,Unassigned,desktop,13,5,0,0.0
+2026-07-27,Organic Search,mobile,335,229,11,534.47
+2026-07-27,Organic Search,desktop,160,109,5,271.77
+2026-07-27,Paid Search,mobile,222,138,9,428.47
+2026-07-27,Paid Search,desktop,100,59,4,172.12
+2026-07-27,Paid Social,mobile,248,96,1,55.85
+2026-07-27,Paid Social,desktop,123,44,1,47.51
+2026-07-27,Organic Social,mobile,122,62,2,105.14
+2026-07-27,Organic Social,desktop,48,24,1,42.63
+2026-07-27,Email,mobile,64,44,3,145.19
+2026-07-27,Email,desktop,35,24,1,50.58
+2026-07-27,Direct,mobile,165,100,6,277.14
+2026-07-27,Direct,desktop,82,49,3,155.77
+2026-07-27,Referral,mobile,45,29,1,51.43
+2026-07-27,Referral,desktop,25,15,1,52.15
+2026-07-27,Unassigned,mobile,29,11,0,0.0
+2026-07-27,Unassigned,desktop,14,5,0,0.0
+2026-07-28,Organic Search,mobile,345,220,11,557.44
+2026-07-28,Organic Search,desktop,175,111,6,254.65
+2026-07-28,Paid Search,mobile,236,138,8,371.13
+2026-07-28,Paid Search,desktop,88,54,4,211.4
+2026-07-28,Paid Social,mobile,280,110,2,85.74
+2026-07-28,Paid Social,desktop,104,38,1,51.27
+2026-07-28,Organic Social,mobile,113,57,1,54.77
+2026-07-28,Organic Social,desktop,50,25,1,52.09
+2026-07-28,Email,mobile,75,54,3,134.08
+2026-07-28,Email,desktop,31,22,1,55.62
+2026-07-28,Direct,mobile,173,98,6,311.22
+2026-07-28,Direct,desktop,82,46,3,159.41
+2026-07-28,Referral,mobile,44,26,1,47.32
+2026-07-28,Referral,desktop,25,16,1,53.26
+2026-07-28,Unassigned,mobile,26,10,0,0.0
+2026-07-28,Unassigned,desktop,13,5,0,0.0
+2026-07-29,Organic Search,mobile,342,235,12,527.06
+2026-07-29,Organic Search,desktop,164,109,5,256.89
+2026-07-29,Paid Search,mobile,211,130,7,334.5
+2026-07-29,Paid Search,desktop,104,60,5,210.36
+2026-07-29,Paid Social,mobile,253,100,1,55.09
+2026-07-29,Paid Social,desktop,130,49,1,55.49
+2026-07-29,Organic Social,mobile,106,55,1,43.25
+2026-07-29,Organic Social,desktop,54,28,1,55.11
+2026-07-29,Email,mobile,81,55,4,177.84
+2026-07-29,Email,desktop,38,28,2,97.87
+2026-07-29,Direct,mobile,209,126,8,434.2
+2026-07-29,Direct,desktop,74,43,2,111.52
+2026-07-29,Referral,mobile,45,29,1,48.91
+2026-07-29,Referral,desktop,25,16,1,44.7
+2026-07-29,Unassigned,mobile,24,9,0,0.0
+2026-07-29,Unassigned,desktop,12,4,0,0.0
+2026-07-30,Organic Search,mobile,365,233,13,709.26
+2026-07-30,Organic Search,desktop,175,115,5,256.85
+2026-07-30,Paid Search,mobile,190,111,7,318.31
+2026-07-30,Paid Search,desktop,91,54,4,221.43
+2026-07-30,Paid Social,mobile,235,91,1,51.15
+2026-07-30,Paid Social,desktop,124,45,1,46.3
+2026-07-30,Organic Social,mobile,109,56,1,51.85
+2026-07-30,Organic Social,desktop,50,25,1,46.13
+2026-07-30,Email,mobile,75,51,3,132.43
+2026-07-30,Email,desktop,36,25,2,99.38
+2026-07-30,Direct,mobile,184,107,7,315.4
+2026-07-30,Direct,desktop,80,47,3,129.44
+2026-07-30,Referral,mobile,47,30,1,49.9
+2026-07-30,Referral,desktop,19,12,1,50.02
+2026-07-30,Unassigned,mobile,25,9,0,0.0
+2026-07-30,Unassigned,desktop,12,4,0,0.0
+2026-07-31,Organic Search,mobile,371,243,12,580.74
+2026-07-31,Organic Search,desktop,138,90,5,260.63
+2026-07-31,Paid Search,mobile,203,127,9,450.87
+2026-07-31,Paid Search,desktop,85,51,3,167.75
+2026-07-31,Paid Social,mobile,283,102,2,84.89
+2026-07-31,Paid Social,desktop,114,44,1,55.7
+2026-07-31,Organic Social,mobile,118,60,2,94.71
+2026-07-31,Organic Social,desktop,59,31,1,51.56
+2026-07-31,Email,mobile,76,54,4,187.48
+2026-07-31,Email,desktop,30,21,1,52.19
+2026-07-31,Direct,mobile,170,93,5,230.89
+2026-07-31,Direct,desktop,92,53,3,160.58
+2026-07-31,Referral,mobile,44,27,1,55.12
+2026-07-31,Referral,desktop,24,14,1,47.87
+2026-07-31,Unassigned,mobile,30,12,0,0.0
+2026-07-31,Unassigned,desktop,11,4,0,0.0
+2026-08-01,Organic Search,mobile,259,175,8,362.25
+2026-08-01,Organic Search,desktop,129,88,4,196.22
+2026-08-01,Paid Search,mobile,174,109,8,371.72
+2026-08-01,Paid Search,desktop,90,55,3,138.67
+2026-08-01,Paid Social,mobile,198,76,1,46.21
+2026-08-01,Paid Social,desktop,90,35,1,54.76
+2026-08-01,Organic Social,mobile,103,53,1,55.61
+2026-08-01,Organic Social,desktop,53,28,1,46.46
+2026-08-01,Email,mobile,200,137,10,525.62
+2026-08-01,Email,desktop,96,70,5,259.53
+2026-08-01,Direct,mobile,179,108,6,333.29
+2026-08-01,Direct,desktop,78,43,3,134.54
+2026-08-01,Referral,mobile,44,28,1,43.29
+2026-08-01,Referral,desktop,21,12,1,51.43
+2026-08-01,Unassigned,mobile,25,10,0,0.0
+2026-08-01,Unassigned,desktop,12,4,0,0.0
+2026-08-02,Organic Search,mobile,286,197,8,440.96
+2026-08-02,Organic Search,desktop,161,102,6,292.23
+2026-08-02,Paid Search,mobile,172,106,6,328.87
+2026-08-02,Paid Search,desktop,89,55,4,197.88
+2026-08-02,Paid Social,mobile,212,78,1,48.96
+2026-08-02,Paid Social,desktop,92,36,1,53.76
+2026-08-02,Organic Social,mobile,112,57,1,49.88
+2026-08-02,Organic Social,desktop,43,21,0,0.0
+2026-08-02,Email,mobile,211,148,10,466.18
+2026-08-02,Email,desktop,93,68,5,255.82
+2026-08-02,Direct,mobile,174,98,7,388.72
+2026-08-02,Direct,desktop,80,46,3,159.39
+2026-08-02,Referral,mobile,38,24,1,54.84
+2026-08-02,Referral,desktop,20,12,0,0.0
+2026-08-02,Unassigned,mobile,27,11,0,0.0
+2026-08-02,Unassigned,desktop,11,4,0,0.0
+2026-08-03,Organic Search,mobile,291,192,9,455.85
+2026-08-03,Organic Search,desktop,168,112,5,244.15
+2026-08-03,Paid Search,mobile,180,110,6,296.47
+2026-08-03,Paid Search,desktop,92,58,3,160.15
+2026-08-03,Paid Social,mobile,265,103,2,87.0
+2026-08-03,Paid Social,desktop,104,38,1,49.37
+2026-08-03,Organic Social,mobile,124,62,1,47.22
+2026-08-03,Organic Social,desktop,52,27,1,45.16
+2026-08-03,Email,mobile,77,56,4,216.06
+2026-08-03,Email,desktop,37,25,2,99.48
+2026-08-03,Direct,mobile,162,89,5,244.99
+2026-08-03,Direct,desktop,86,51,3,162.03
+2026-08-03,Referral,mobile,42,26,1,44.96
+2026-08-03,Referral,desktop,25,16,1,42.65
+2026-08-03,Unassigned,mobile,24,10,0,0.0
+2026-08-03,Unassigned,desktop,11,4,0,0.0
+2026-08-04,Organic Search,mobile,351,237,12,570.91
+2026-08-04,Organic Search,desktop,140,89,4,214.74
+2026-08-04,Paid Search,mobile,204,129,8,420.63
+2026-08-04,Paid Search,desktop,88,56,4,196.04
+2026-08-04,Paid Social,mobile,288,104,2,107.48
+2026-08-04,Paid Social,desktop,113,44,1,47.55
+2026-08-04,Organic Social,mobile,123,60,1,55.9
+2026-08-04,Organic Social,desktop,53,27,1,48.05
+2026-08-04,Email,mobile,77,55,3,151.98
+2026-08-04,Email,desktop,37,26,1,44.16
+2026-08-04,Direct,mobile,199,116,7,325.03
+2026-08-04,Direct,desktop,77,42,3,141.12
+2026-08-04,Referral,mobile,45,27,1,48.28
+2026-08-04,Referral,desktop,23,14,1,46.95
+2026-08-04,Unassigned,mobile,25,10,0,0.0
+2026-08-04,Unassigned,desktop,12,4,0,0.0
+2026-08-05,Organic Search,mobile,384,265,13,576.86
+2026-08-05,Organic Search,desktop,155,98,5,244.52
+2026-08-05,Paid Search,mobile,184,111,7,341.45
+2026-08-05,Paid Search,desktop,87,51,3,152.25
+2026-08-05,Paid Social,mobile,260,95,1,46.27
+2026-08-05,Paid Social,desktop,135,50,1,53.26
+2026-08-05,Organic Social,mobile,108,55,1,54.03
+2026-08-05,Organic Social,desktop,61,30,1,55.26
+2026-08-05,Email,mobile,66,45,3,166.69
+2026-08-05,Email,desktop,32,23,1,50.06
+2026-08-05,Direct,mobile,173,99,7,332.51
+2026-08-05,Direct,desktop,78,45,3,148.92
+2026-08-05,Referral,mobile,51,32,2,96.93
+2026-08-05,Referral,desktop,24,15,1,51.7
+2026-08-05,Unassigned,mobile,31,12,0,0.0
+2026-08-05,Unassigned,desktop,13,5,0,0.0
+2026-08-06,Organic Search,mobile,373,235,14,681.93
+2026-08-06,Organic Search,desktop,156,103,6,310.1
+2026-08-06,Paid Search,mobile,215,134,8,436.3
+2026-08-06,Paid Search,desktop,101,62,4,211.06
+2026-08-06,Paid Social,mobile,265,99,2,85.24
+2026-08-06,Paid Social,desktop,136,52,1,52.54
+2026-08-06,Organic Social,mobile,130,67,1,45.62
+2026-08-06,Organic Social,desktop,54,28,1,50.05
+2026-08-06,Email,mobile,72,50,4,200.96
+2026-08-06,Email,desktop,34,23,1,43.46
+2026-08-06,Direct,mobile,183,111,6,331.02
+2026-08-06,Direct,desktop,79,44,3,134.69
+2026-08-06,Referral,mobile,48,30,1,51.75
+2026-08-06,Referral,desktop,21,12,1,43.61
+2026-08-06,Unassigned,mobile,31,12,0,0.0
+2026-08-06,Unassigned,desktop,15,5,0,0.0
+2026-08-07,Organic Search,mobile,350,241,10,476.71
+2026-08-07,Organic Search,desktop,146,97,5,212.04
+2026-08-07,Paid Search,mobile,220,130,9,426.99
+2026-08-07,Paid Search,desktop,106,62,5,266.61
+2026-08-07,Paid Social,mobile,220,80,1,44.62
+2026-08-07,Paid Social,desktop,113,42,1,54.08
+2026-08-07,Organic Social,mobile,115,60,1,50.56
+2026-08-07,Organic Social,desktop,55,28,1,50.64
+2026-08-07,Email,mobile,80,57,3,151.81
+2026-08-07,Email,desktop,30,20,1,46.28
+2026-08-07,Direct,mobile,170,100,6,287.13
+2026-08-07,Direct,desktop,78,44,2,101.79
+2026-08-07,Referral,mobile,51,32,2,99.54
+2026-08-07,Referral,desktop,23,13,1,48.31
+2026-08-07,Unassigned,mobile,24,9,0,0.0
+2026-08-07,Unassigned,desktop,14,5,0,0.0
+2026-08-08,Organic Search,mobile,321,210,11,537.26
+2026-08-08,Organic Search,desktop,125,78,4,184.36
+2026-08-08,Paid Search,mobile,175,107,6,290.41
+2026-08-08,Paid Search,desktop,95,59,4,174.34
+2026-08-08,Paid Social,mobile,198,77,1,47.14
+2026-08-08,Paid Social,desktop,115,41,1,49.65
+2026-08-08,Organic Social,mobile,116,57,2,105.04
+2026-08-08,Organic Social,desktop,44,24,1,46.88
+2026-08-08,Email,mobile,71,50,4,211.44
+2026-08-08,Email,desktop,28,20,1,46.91
+2026-08-08,Direct,mobile,177,104,6,263.7
+2026-08-08,Direct,desktop,71,39,2,93.82
+2026-08-08,Referral,mobile,40,25,1,51.86
+2026-08-08,Referral,desktop,19,11,1,55.8
+2026-08-08,Unassigned,mobile,26,9,0,0.0
+2026-08-08,Unassigned,desktop,13,5,0,0.0
+2026-08-09,Organic Search,mobile,338,217,12,643.18
+2026-08-09,Organic Search,desktop,154,103,5,250.42
+2026-08-09,Paid Search,mobile,175,105,7,356.1
+2026-08-09,Paid Search,desktop,98,57,4,183.58
+2026-08-09,Paid Social,mobile,254,95,2,93.16
+2026-08-09,Paid Social,desktop,90,35,1,52.23
+2026-08-09,Organic Social,mobile,100,52,1,42.89
+2026-08-09,Organic Social,desktop,48,24,1,44.97
+2026-08-09,Email,mobile,60,43,3,150.27
+2026-08-09,Email,desktop,31,21,1,51.56
+2026-08-09,Direct,mobile,144,80,5,242.17
+2026-08-09,Direct,desktop,69,41,2,84.02
+2026-08-09,Referral,mobile,49,29,1,43.85
+2026-08-09,Referral,desktop,21,12,1,45.84
+2026-08-09,Unassigned,mobile,26,10,0,0.0
+2026-08-09,Unassigned,desktop,10,3,0,0.0
+2026-08-10,Organic Search,mobile,317,212,11,462.17
+2026-08-10,Organic Search,desktop,161,102,5,257.6
+2026-08-10,Paid Search,mobile,182,113,8,446.67
+2026-08-10,Paid Search,desktop,98,57,4,189.45
+2026-08-10,Paid Social,mobile,272,99,2,108.67
+2026-08-10,Paid Social,desktop,106,41,1,43.86
+2026-08-10,Organic Social,mobile,131,65,2,84.24
+2026-08-10,Organic Social,desktop,56,28,1,50.79
+2026-08-10,Email,mobile,66,46,3,162.12
+2026-08-10,Email,desktop,30,20,1,50.25
+2026-08-10,Direct,mobile,182,110,6,263.75
+2026-08-10,Direct,desktop,82,45,3,151.2
+2026-08-10,Referral,mobile,50,32,1,53.87
+2026-08-10,Referral,desktop,24,14,1,49.13
+2026-08-10,Unassigned,mobile,30,11,0,0.0
+2026-08-10,Unassigned,desktop,15,5,0,0.0
+2026-08-11,Organic Search,mobile,354,234,13,725.61
+2026-08-11,Organic Search,desktop,183,116,6,299.74
+2026-08-11,Paid Search,mobile,205,127,9,498.26
+2026-08-11,Paid Search,desktop,108,62,4,182.68
+2026-08-11,Paid Social,mobile,219,79,1,49.09
+2026-08-11,Paid Social,desktop,124,47,1,51.83
+2026-08-11,Organic Social,mobile,100,52,1,45.88
+2026-08-11,Organic Social,desktop,51,26,1,53.31
+2026-08-11,Email,mobile,74,51,3,161.05
+2026-08-11,Email,desktop,36,24,2,104.44
+2026-08-11,Direct,mobile,208,115,6,288.5
+2026-08-11,Direct,desktop,87,51,3,157.15
+2026-08-11,Referral,mobile,52,31,2,103.64
+2026-08-11,Referral,desktop,20,13,1,52.96
+2026-08-11,Unassigned,mobile,30,11,0,0.0
+2026-08-11,Unassigned,desktop,12,4,0,0.0
+2026-08-12,Organic Search,mobile,377,243,10,519.73
+2026-08-12,Organic Search,desktop,166,104,5,235.21
+2026-08-12,Paid Search,mobile,213,130,8,364.57
+2026-08-12,Paid Search,desktop,88,54,4,180.79
+2026-08-12,Paid Social,mobile,255,92,2,90.85
+2026-08-12,Paid Social,desktop,118,44,1,55.04
+2026-08-12,Organic Social,mobile,127,66,2,104.74
+2026-08-12,Organic Social,desktop,52,26,1,52.08
+2026-08-12,Email,mobile,68,46,3,147.09
+2026-08-12,Email,desktop,39,26,2,111.48
+2026-08-12,Direct,mobile,214,118,7,321.67
+2026-08-12,Direct,desktop,98,55,3,126.33
+2026-08-12,Referral,mobile,44,27,1,50.72
+2026-08-12,Referral,desktop,22,13,1,52.82
+2026-08-12,Unassigned,mobile,26,10,0,0.0
+2026-08-12,Unassigned,desktop,11,4,0,0.0
+2026-08-13,Organic Search,mobile,380,260,14,588.29
+2026-08-13,Organic Search,desktop,170,116,6,260.73
+2026-08-13,Paid Search,mobile,215,127,9,385.55
+2026-08-13,Paid Search,desktop,115,71,4,219.59
+2026-08-13,Paid Social,mobile,285,108,2,94.43
+2026-08-13,Paid Social,desktop,137,49,1,43.87
+2026-08-13,Organic Social,mobile,126,62,2,96.18
+2026-08-13,Organic Social,desktop,61,30,1,46.41
+2026-08-13,Email,mobile,80,57,4,185.81
+2026-08-13,Email,desktop,32,21,1,52.92
+2026-08-13,Direct,mobile,193,108,6,291.15
+2026-08-13,Direct,desktop,86,50,3,134.72
+2026-08-13,Referral,mobile,46,28,1,44.21
+2026-08-13,Referral,desktop,24,15,1,42.56
+2026-08-13,Unassigned,mobile,31,12,0,0.0
+2026-08-13,Unassigned,desktop,12,4,0,0.0
+2026-08-14,Organic Search,mobile,396,249,12,579.97
+2026-08-14,Organic Search,desktop,174,111,6,319.53
+2026-08-14,Paid Search,mobile,190,110,9,501.8
+2026-08-14,Paid Search,desktop,89,56,4,203.3
+2026-08-14,Paid Social,mobile,266,101,1,53.38
+2026-08-14,Paid Social,desktop,102,37,1,48.21
+2026-08-14,Organic Social,mobile,102,55,1,46.64
+2026-08-14,Organic Social,desktop,46,23,0,0.0
+2026-08-14,Email,mobile,81,56,3,154.69
+2026-08-14,Email,desktop,31,21,1,45.92
+2026-08-14,Direct,mobile,210,116,8,363.53
+2026-08-14,Direct,desktop,83,47,3,128.56
+2026-08-14,Referral,mobile,46,27,1,54.39
+2026-08-14,Referral,desktop,23,14,1,53.13
+2026-08-14,Unassigned,mobile,33,13,0,0.0
+2026-08-14,Unassigned,desktop,13,5,0,0.0
+2026-08-15,Organic Search,mobile,276,178,8,436.33
+2026-08-15,Organic Search,desktop,155,97,6,296.47
+2026-08-15,Paid Search,mobile,204,130,10,434.02
+2026-08-15,Paid Search,desktop,93,55,4,219.37
+2026-08-15,Paid Social,mobile,195,77,1,53.85
+2026-08-15,Paid Social,desktop,115,43,1,53.83
+2026-08-15,Organic Social,mobile,91,47,1,51.77
+2026-08-15,Organic Social,desktop,53,26,1,55.27
+2026-08-15,Email,mobile,66,47,3,167.5
+2026-08-15,Email,desktop,34,24,1,48.87
+2026-08-15,Direct,mobile,146,82,5,246.85
+2026-08-15,Direct,desktop,66,39,2,87.65
+2026-08-15,Referral,mobile,46,30,1,46.53
+2026-08-15,Referral,desktop,17,10,1,52.84
+2026-08-15,Unassigned,mobile,28,11,0,0.0
+2026-08-15,Unassigned,desktop,13,5,0,0.0
+2026-08-16,Organic Search,mobile,272,173,10,530.86
+2026-08-16,Organic Search,desktop,163,109,5,277.81
+2026-08-16,Paid Search,mobile,200,127,9,406.13
+2026-08-16,Paid Search,desktop,91,53,4,206.56
+2026-08-16,Paid Social,mobile,200,77,1,55.28
+2026-08-16,Paid Social,desktop,102,40,1,42.45
+2026-08-16,Organic Social,mobile,104,56,1,45.09
+2026-08-16,Organic Social,desktop,48,26,1,52.43
+2026-08-16,Email,mobile,60,44,2,108.79
+2026-08-16,Email,desktop,27,19,1,54.41
+2026-08-16,Direct,mobile,164,92,5,214.75
+2026-08-16,Direct,desktop,72,40,2,94.81
+2026-08-16,Referral,mobile,46,30,1,48.9
+2026-08-16,Referral,desktop,19,12,0,0.0
+2026-08-16,Unassigned,mobile,28,11,0,0.0
+2026-08-16,Unassigned,desktop,10,4,0,0.0
+2026-08-17,Organic Search,mobile,392,247,11,519.82
+2026-08-17,Organic Search,desktop,173,114,6,259.82
+2026-08-17,Paid Search,mobile,219,135,9,381.91
+2026-08-17,Paid Search,desktop,114,67,5,221.0
+2026-08-17,Paid Social,mobile,224,82,1,51.76
+2026-08-17,Paid Social,desktop,127,49,1,45.94
+2026-08-17,Organic Social,mobile,106,52,1,53.76
+2026-08-17,Organic Social,desktop,48,24,1,46.12
+2026-08-17,Email,mobile,77,55,3,127.08
+2026-08-17,Email,desktop,31,21,1,53.81
+2026-08-17,Direct,mobile,178,102,6,307.53
+2026-08-17,Direct,desktop,78,45,2,108.79
+2026-08-17,Referral,mobile,47,29,1,48.51
+2026-08-17,Referral,desktop,21,12,1,52.53
+2026-08-17,Unassigned,mobile,30,11,0,0.0
+2026-08-17,Unassigned,desktop,15,6,0,0.0
+2026-08-18,Organic Search,mobile,378,247,12,649.64
+2026-08-18,Organic Search,desktop,161,110,5,215.53
+2026-08-18,Paid Search,mobile,239,148,10,546.06
+2026-08-18,Paid Search,desktop,109,67,5,218.42
+2026-08-18,Paid Social,mobile,274,100,2,111.22
+2026-08-18,Paid Social,desktop,131,47,1,55.84
+2026-08-18,Organic Social,mobile,112,61,1,53.68
+2026-08-18,Organic Social,desktop,50,27,1,42.94
+2026-08-18,Email,mobile,71,49,3,137.6
+2026-08-18,Email,desktop,34,25,2,101.45
+2026-08-18,Direct,mobile,190,109,6,264.45
+2026-08-18,Direct,desktop,91,54,4,219.8
+2026-08-18,Referral,mobile,50,30,1,49.5
+2026-08-18,Referral,desktop,22,13,1,48.8
+2026-08-18,Unassigned,mobile,29,11,0,0.0
+2026-08-18,Unassigned,desktop,13,5,0,0.0
+2026-08-19,Organic Search,mobile,327,210,11,603.81
+2026-08-19,Organic Search,desktop,181,113,6,277.46
+2026-08-19,Paid Search,mobile,199,121,9,390.38
+2026-08-19,Paid Search,desktop,111,65,5,241.02
+2026-08-19,Paid Social,mobile,279,103,2,102.08
+2026-08-19,Paid Social,desktop,108,39,1,52.37
+2026-08-19,Organic Social,mobile,124,66,2,98.43
+2026-08-19,Organic Social,desktop,48,24,1,43.9
+2026-08-19,Email,mobile,81,59,3,134.1
+2026-08-19,Email,desktop,38,27,2,96.78
+2026-08-19,Direct,mobile,212,125,7,374.7
+2026-08-19,Direct,desktop,89,52,3,127.28
+2026-08-19,Referral,mobile,47,29,1,54.19
+2026-08-19,Referral,desktop,23,14,1,54.52
+2026-08-19,Unassigned,mobile,30,12,0,0.0
+2026-08-19,Unassigned,desktop,12,4,0,0.0
+2026-08-20,Organic Search,mobile,360,241,11,525.06
+2026-08-20,Organic Search,desktop,138,93,5,210.62
+2026-08-20,Paid Search,mobile,239,147,10,421.18
+2026-08-20,Paid Search,desktop,93,58,4,222.15
+2026-08-20,Paid Social,mobile,265,99,2,93.76
+2026-08-20,Paid Social,desktop,110,41,1,53.54
+2026-08-20,Organic Social,mobile,111,55,1,51.27
+2026-08-20,Organic Social,desktop,59,30,1,50.53
+2026-08-20,Email,mobile,69,47,3,167.51
+2026-08-20,Email,desktop,36,26,2,103.91
+2026-08-20,Direct,mobile,211,119,7,369.02
+2026-08-20,Direct,desktop,99,59,4,201.6
+2026-08-20,Referral,mobile,51,32,2,102.35
+2026-08-20,Referral,desktop,26,15,1,47.44
+2026-08-20,Unassigned,mobile,24,9,0,0.0
+2026-08-20,Unassigned,desktop,14,5,0,0.0
+2026-08-21,Organic Search,mobile,386,259,12,646.03
+2026-08-21,Organic Search,desktop,178,121,5,216.83
+2026-08-21,Paid Search,mobile,189,112,8,421.45
+2026-08-21,Paid Search,desktop,90,55,4,173.0
+2026-08-21,Paid Social,mobile,243,94,1,53.03
+2026-08-21,Paid Social,desktop,113,41,1,53.92
+2026-08-21,Organic Social,mobile,113,60,1,55.22
+2026-08-21,Organic Social,desktop,47,25,1,54.14
+2026-08-21,Email,mobile,71,49,3,161.88
+2026-08-21,Email,desktop,30,20,1,49.97
+2026-08-21,Direct,mobile,211,121,7,364.14
+2026-08-21,Direct,desktop,96,55,3,133.43
+2026-08-21,Referral,mobile,51,30,1,52.66
+2026-08-21,Referral,desktop,20,12,1,52.69
+2026-08-21,Unassigned,mobile,25,10,0,0.0
+2026-08-21,Unassigned,desktop,15,5,0,0.0
+2026-08-22,Organic Search,mobile,292,183,9,482.99
+2026-08-22,Organic Search,desktop,129,86,4,181.93
+2026-08-22,Paid Search,mobile,199,119,7,331.59
+2026-08-22,Paid Search,desktop,91,53,4,184.7
+2026-08-22,Paid Social,mobile,210,81,1,46.73
+2026-08-22,Paid Social,desktop,118,47,1,54.62
+2026-08-22,Organic Social,mobile,97,48,1,54.85
+2026-08-22,Organic Social,desktop,46,23,1,43.84
+2026-08-22,Email,mobile,69,49,3,141.4
+2026-08-22,Email,desktop,32,21,2,91.16
+2026-08-22,Direct,mobile,168,93,7,358.87
+2026-08-22,Direct,desktop,82,45,3,143.5
+2026-08-22,Referral,mobile,41,25,1,44.14
+2026-08-22,Referral,desktop,21,13,1,51.26
+2026-08-22,Unassigned,mobile,26,10,0,0.0
+2026-08-22,Unassigned,desktop,13,4,0,0.0
+2026-08-23,Organic Search,mobile,268,169,8,358.37
+2026-08-23,Organic Search,desktop,132,87,4,207.39
+2026-08-23,Paid Search,mobile,176,102,7,314.35
+2026-08-23,Paid Search,desktop,100,59,3,154.21
+2026-08-23,Paid Social,mobile,251,98,2,88.18
+2026-08-23,Paid Social,desktop,92,35,1,43.42
+2026-08-23,Organic Social,mobile,93,47,1,46.14
+2026-08-23,Organic Social,desktop,47,23,1,42.55
+2026-08-23,Email,mobile,61,44,3,157.02
+2026-08-23,Email,desktop,26,18,1,53.93
+2026-08-23,Direct,mobile,174,97,6,288.77
+2026-08-23,Direct,desktop,81,48,2,106.82
+2026-08-23,Referral,mobile,39,24,1,45.81
+2026-08-23,Referral,desktop,19,12,1,51.08
+2026-08-23,Unassigned,mobile,27,10,0,0.0
+2026-08-23,Unassigned,desktop,13,5,0,0.0
+2026-08-24,Organic Search,mobile,374,251,11,520.48
+2026-08-24,Organic Search,desktop,154,96,5,268.7
+2026-08-24,Paid Search,mobile,242,142,11,479.39
+2026-08-24,Paid Search,desktop,97,56,4,185.6
+2026-08-24,Paid Social,mobile,269,104,2,100.15
+2026-08-24,Paid Social,desktop,121,48,1,46.74
+2026-08-24,Organic Social,mobile,115,60,1,51.26
+2026-08-24,Organic Social,desktop,49,25,1,47.39
+2026-08-24,Email,mobile,81,57,4,171.06
+2026-08-24,Email,desktop,36,24,2,107.85
+2026-08-24,Direct,mobile,208,115,7,317.61
+2026-08-24,Direct,desktop,101,55,3,153.02
+2026-08-24,Referral,mobile,47,28,1,53.22
+2026-08-24,Referral,desktop,22,14,1,43.66
+2026-08-24,Unassigned,mobile,28,11,0,0.0
+2026-08-24,Unassigned,desktop,13,4,0,0.0
+2026-08-25,Organic Search,mobile,355,229,11,493.86
+2026-08-25,Organic Search,desktop,169,116,5,213.8
+2026-08-25,Paid Search,mobile,194,117,8,405.41
+2026-08-25,Paid Search,desktop,99,61,4,174.39
+2026-08-25,Paid Social,mobile,272,100,2,107.24
+2026-08-25,Paid Social,desktop,135,50,1,51.83
+2026-08-25,Organic Social,mobile,98,49,1,52.04
+2026-08-25,Organic Social,desktop,57,28,1,44.63
+2026-08-25,Email,mobile,82,57,4,211.76
+2026-08-25,Email,desktop,36,24,2,109.95
+2026-08-25,Direct,mobile,206,120,8,386.46
+2026-08-25,Direct,desktop,92,55,3,146.95
+2026-08-25,Referral,mobile,49,29,2,107.49
+2026-08-25,Referral,desktop,22,13,1,44.48
+2026-08-25,Unassigned,mobile,29,11,0,0.0
+2026-08-25,Unassigned,desktop,13,5,0,0.0
+2026-08-26,Organic Search,mobile,391,268,13,595.79
+2026-08-26,Organic Search,desktop,183,126,6,263.2
+2026-08-26,Paid Search,mobile,206,128,9,415.66
+2026-08-26,Paid Search,desktop,105,66,5,275.49
+2026-08-26,Paid Social,mobile,262,96,2,92.14
+2026-08-26,Paid Social,desktop,113,43,1,51.1
+2026-08-26,Organic Social,mobile,129,67,2,93.03
+2026-08-26,Organic Social,desktop,47,24,1,49.99
+2026-08-26,Email,mobile,77,54,4,215.12
+2026-08-26,Email,desktop,32,23,2,98.64
+2026-08-26,Direct,mobile,160,89,6,268.79
+2026-08-26,Direct,desktop,94,52,3,136.52
+2026-08-26,Referral,mobile,53,34,1,52.55
+2026-08-26,Referral,desktop,19,12,0,0.0
+2026-08-26,Unassigned,mobile,30,12,0,0.0
+2026-08-26,Unassigned,desktop,12,4,0,0.0
+2026-08-27,Organic Search,mobile,358,246,11,609.33
+2026-08-27,Organic Search,desktop,183,118,6,253.09
+2026-08-27,Paid Search,mobile,195,120,9,487.63
+2026-08-27,Paid Search,desktop,109,69,5,255.33
+2026-08-27,Paid Social,mobile,271,103,2,105.73
+2026-08-27,Paid Social,desktop,135,50,1,51.56
+2026-08-27,Organic Social,mobile,103,51,1,47.28
+2026-08-27,Organic Social,desktop,52,27,1,50.18
+2026-08-27,Email,mobile,67,46,3,132.5
+2026-08-27,Email,desktop,30,20,1,55.05
+2026-08-27,Direct,mobile,193,113,7,350.12
+2026-08-27,Direct,desktop,84,50,3,135.24
+2026-08-27,Referral,mobile,44,26,1,47.82
+2026-08-27,Referral,desktop,23,13,1,44.99
+2026-08-27,Unassigned,mobile,27,10,0,0.0
+2026-08-27,Unassigned,desktop,13,5,0,0.0
+2026-08-28,Organic Search,mobile,290,194,9,491.97
+2026-08-28,Organic Search,desktop,166,110,6,309.33
+2026-08-28,Paid Search,mobile,199,126,9,426.62
+2026-08-28,Paid Search,desktop,100,59,5,267.55
+2026-08-28,Paid Social,mobile,242,94,1,42.61
+2026-08-28,Paid Social,desktop,132,48,1,55.27
+2026-08-28,Organic Social,mobile,102,55,1,42.1
+2026-08-28,Organic Social,desktop,46,24,1,54.11
+2026-08-28,Email,mobile,71,48,3,155.52
+2026-08-28,Email,desktop,39,28,2,110.31
+2026-08-28,Direct,mobile,200,111,7,326.51
+2026-08-28,Direct,desktop,77,42,3,149.44
+2026-08-28,Referral,mobile,49,30,1,47.43
+2026-08-28,Referral,desktop,23,14,1,51.43
+2026-08-28,Unassigned,mobile,28,11,0,0.0
+2026-08-28,Unassigned,desktop,13,5,0,0.0
+2026-08-29,Organic Search,mobile,265,179,8,345.69
+2026-08-29,Organic Search,desktop,152,99,5,256.25
+2026-08-29,Paid Search,mobile,184,112,7,332.32
+2026-08-29,Paid Search,desktop,95,58,4,176.07
+2026-08-29,Paid Social,mobile,233,92,2,104.42
+2026-08-29,Paid Social,desktop,100,39,1,49.77
+2026-08-29,Organic Social,mobile,88,43,1,49.52
+2026-08-29,Organic Social,desktop,53,27,1,54.65
+2026-08-29,Email,mobile,61,42,3,147.53
+2026-08-29,Email,desktop,27,18,1,44.72
+2026-08-29,Direct,mobile,148,88,6,323.52
+2026-08-29,Direct,desktop,87,52,3,149.09
+2026-08-29,Referral,mobile,40,24,1,52.16
+2026-08-29,Referral,desktop,20,12,0,0.0
+2026-08-29,Unassigned,mobile,22,8,0,0.0
+2026-08-29,Unassigned,desktop,11,4,0,0.0
+2026-08-30,Organic Search,mobile,305,198,9,431.97
+2026-08-30,Organic Search,desktop,120,77,4,209.43
+2026-08-30,Paid Search,mobile,182,114,7,365.83
+2026-08-30,Paid Search,desktop,97,58,4,185.11
+2026-08-30,Paid Social,mobile,224,82,1,53.79
+2026-08-30,Paid Social,desktop,115,42,1,45.69
+2026-08-30,Organic Social,mobile,111,55,1,42.26
+2026-08-30,Organic Social,desktop,47,23,1,47.67
+2026-08-30,Email,mobile,65,48,3,148.83
+2026-08-30,Email,desktop,34,24,2,94.24
+2026-08-30,Direct,mobile,150,89,6,276.44
+2026-08-30,Direct,desktop,76,44,3,147.09
+2026-08-30,Referral,mobile,44,28,1,50.6
+2026-08-30,Referral,desktop,18,11,0,0.0
+2026-08-30,Unassigned,mobile,28,11,0,0.0
+2026-08-30,Unassigned,desktop,11,4,0,0.0
+2026-08-31,Organic Search,mobile,294,191,8,359.16
+2026-08-31,Organic Search,desktop,179,116,6,290.19
+2026-08-31,Paid Search,mobile,181,115,7,362.97
+2026-08-31,Paid Search,desktop,99,62,4,182.75
+2026-08-31,Paid Social,mobile,253,93,2,94.23
+2026-08-31,Paid Social,desktop,123,48,1,47.27
+2026-08-31,Organic Social,mobile,126,65,1,54.15
+2026-08-31,Organic Social,desktop,52,26,1,49.03
+2026-08-31,Email,mobile,64,43,3,153.03
+2026-08-31,Email,desktop,31,21,1,52.04
+2026-08-31,Direct,mobile,164,92,6,312.5
+2026-08-31,Direct,desktop,86,49,3,132.77
+2026-08-31,Referral,mobile,53,31,1,50.03
+2026-08-31,Referral,desktop,20,12,0,0.0
+2026-08-31,Unassigned,mobile,24,9,0,0.0
+2026-08-31,Unassigned,desktop,13,5,0,0.0
+2026-09-01,Organic Search,mobile,354,228,10,482.89
+2026-09-01,Organic Search,desktop,182,124,5,268.13
+2026-09-01,Paid Search,mobile,215,135,10,445.46
+2026-09-01,Paid Search,desktop,103,61,5,233.99
+2026-09-01,Paid Social,mobile,246,94,1,47.4
+2026-09-01,Paid Social,desktop,103,37,1,49.06
+2026-09-01,Organic Social,mobile,110,55,1,48.66
+2026-09-01,Organic Social,desktop,54,26,1,49.05
+2026-09-01,Email,mobile,205,145,10,504.49
+2026-09-01,Email,desktop,119,87,7,357.62
+2026-09-01,Direct,mobile,186,106,6,296.5
+2026-09-01,Direct,desktop,80,47,3,142.01
+2026-09-01,Referral,mobile,49,31,1,51.75
+2026-09-01,Referral,desktop,19,11,1,45.26
+2026-09-01,Unassigned,mobile,31,12,0,0.0
+2026-09-01,Unassigned,desktop,12,4,0,0.0
+2026-09-02,Organic Search,mobile,298,186,10,516.29
+2026-09-02,Organic Search,desktop,150,97,4,204.49
+2026-09-02,Paid Search,mobile,193,121,8,376.95
+2026-09-02,Paid Search,desktop,91,56,4,191.14
+2026-09-02,Paid Social,mobile,270,102,2,99.54
+2026-09-02,Paid Social,desktop,108,40,1,51.88
+2026-09-02,Organic Social,mobile,120,64,2,104.94
+2026-09-02,Organic Social,desktop,52,27,1,45.0
+2026-09-02,Email,mobile,224,156,12,621.11
+2026-09-02,Email,desktop,115,78,7,294.52
+2026-09-02,Direct,mobile,162,90,6,288.57
+2026-09-02,Direct,desktop,75,42,2,85.06
+2026-09-02,Referral,mobile,46,30,1,49.29
+2026-09-02,Referral,desktop,24,15,1,53.48
+2026-09-02,Unassigned,mobile,29,11,0,0.0
+2026-09-02,Unassigned,desktop,14,5,0,0.0
+2026-09-03,Organic Search,mobile,338,217,10,425.05
+2026-09-03,Organic Search,desktop,145,90,4,223.82
+2026-09-03,Paid Search,mobile,225,135,9,451.85
+2026-09-03,Paid Search,desktop,98,61,3,129.79
+2026-09-03,Paid Social,mobile,232,91,2,93.75
+2026-09-03,Paid Social,desktop,133,49,1,44.72
+2026-09-03,Organic Social,mobile,126,66,1,47.7
+2026-09-03,Organic Social,desktop,46,22,1,55.26
+2026-09-03,Email,mobile,78,57,4,213.54
+2026-09-03,Email,desktop,34,24,2,99.77
+2026-09-03,Direct,mobile,199,118,8,387.39
+2026-09-03,Direct,desktop,85,49,3,130.88
+2026-09-03,Referral,mobile,41,26,1,51.48
+2026-09-03,Referral,desktop,20,12,1,49.23
+2026-09-03,Unassigned,mobile,23,9,0,0.0
+2026-09-03,Unassigned,desktop,13,5,0,0.0
+2026-09-04,Organic Search,mobile,333,216,12,549.2
+2026-09-04,Organic Search,desktop,179,120,6,293.92
+2026-09-04,Paid Search,mobile,189,118,9,404.05
+2026-09-04,Paid Search,desktop,89,52,4,176.74
+2026-09-04,Paid Social,mobile,218,86,1,51.29
+2026-09-04,Paid Social,desktop,120,46,1,42.59
+2026-09-04,Organic Social,mobile,111,58,1,55.8
+2026-09-04,Organic Social,desktop,58,31,1,55.78
+2026-09-04,Email,mobile,80,55,3,150.22
+2026-09-04,Email,desktop,29,21,1,49.57
+2026-09-04,Direct,mobile,183,105,7,311.13
+2026-09-04,Direct,desktop,98,57,3,154.95
+2026-09-04,Referral,mobile,40,24,1,46.56
+2026-09-04,Referral,desktop,23,14,1,45.32
+2026-09-04,Unassigned,mobile,27,10,0,0.0
+2026-09-04,Unassigned,desktop,12,4,0,0.0
+2026-09-05,Organic Search,mobile,275,175,8,400.5
+2026-09-05,Organic Search,desktop,127,80,4,181.21
+2026-09-05,Paid Search,mobile,178,107,7,388.0
+2026-09-05,Paid Search,desktop,76,47,3,146.98
+2026-09-05,Paid Social,mobile,249,97,2,104.18
+2026-09-05,Paid Social,desktop,111,41,1,49.95
+2026-09-05,Organic Social,mobile,95,50,1,53.39
+2026-09-05,Organic Social,desktop,45,23,1,46.69
+2026-09-05,Email,mobile,60,42,3,136.82
+2026-09-05,Email,desktop,25,17,1,55.48
+2026-09-05,Direct,mobile,146,85,5,222.22
+2026-09-05,Direct,desktop,82,46,3,146.47
+2026-09-05,Referral,mobile,45,29,1,46.01
+2026-09-05,Referral,desktop,20,12,1,53.31
+2026-09-05,Unassigned,mobile,23,9,0,0.0
+2026-09-05,Unassigned,desktop,10,3,0,0.0
+2026-09-06,Organic Search,mobile,275,177,9,412.18
+2026-09-06,Organic Search,desktop,135,92,4,200.87
+2026-09-06,Paid Search,mobile,207,125,8,338.59
+2026-09-06,Paid Search,desktop,91,56,4,207.24
+2026-09-06,Paid Social,mobile,189,69,1,42.89
+2026-09-06,Paid Social,desktop,113,43,1,47.56
+2026-09-06,Organic Social,mobile,105,52,1,44.17
+2026-09-06,Organic Social,desktop,48,25,1,45.46
+2026-09-06,Email,mobile,58,41,2,107.48
+2026-09-06,Email,desktop,25,18,1,46.55
+2026-09-06,Direct,mobile,159,96,6,274.88
+2026-09-06,Direct,desktop,74,44,3,133.44
+2026-09-06,Referral,mobile,43,27,1,49.9
+2026-09-06,Referral,desktop,19,12,1,46.86
+2026-09-06,Unassigned,mobile,24,9,0,0.0
+2026-09-06,Unassigned,desktop,10,3,0,0.0
+2026-09-07,Organic Search,mobile,367,238,12,505.4
+2026-09-07,Organic Search,desktop,176,121,6,252.77
+2026-09-07,Paid Search,mobile,201,120,8,336.81
+2026-09-07,Paid Search,desktop,93,56,4,190.11
+2026-09-07,Paid Social,mobile,220,85,1,47.3
+2026-09-07,Paid Social,desktop,107,40,1,52.7
+2026-09-07,Organic Social,mobile,124,66,2,91.97
+2026-09-07,Organic Social,desktop,55,29,1,53.95
+2026-09-07,Email,mobile,64,44,3,151.94
+2026-09-07,Email,desktop,31,22,1,42.27
+2026-09-07,Direct,mobile,157,91,5,217.16
+2026-09-07,Direct,desktop,79,46,3,135.78
+2026-09-07,Referral,mobile,42,26,1,46.36
+2026-09-07,Referral,desktop,24,15,1,53.08
+2026-09-07,Unassigned,mobile,26,10,0,0.0
+2026-09-07,Unassigned,desktop,14,5,0,0.0
+2026-09-08,Organic Search,mobile,365,248,13,568.2
+2026-09-08,Organic Search,desktop,168,108,6,289.21
+2026-09-08,Paid Search,mobile,219,127,9,475.15
+2026-09-08,Paid Search,desktop,97,62,4,206.16
+2026-09-08,Paid Social,mobile,230,85,1,42.59
+2026-09-08,Paid Social,desktop,130,49,1,50.94
+2026-09-08,Organic Social,mobile,100,54,1,45.05
+2026-09-08,Organic Social,desktop,45,23,1,44.34
+2026-09-08,Email,mobile,66,45,3,126.38
+2026-09-08,Email,desktop,28,20,1,50.35
+2026-09-08,Direct,mobile,174,96,5,216.4
+2026-09-08,Direct,desktop,88,53,4,203.01
+2026-09-08,Referral,mobile,41,26,1,53.08
+2026-09-08,Referral,desktop,19,11,1,53.04
+2026-09-08,Unassigned,mobile,29,11,0,0.0
+2026-09-08,Unassigned,desktop,13,5,0,0.0
+2026-09-09,Organic Search,mobile,328,215,10,517.59
+2026-09-09,Organic Search,desktop,140,89,4,209.01
+2026-09-09,Paid Search,mobile,190,119,9,447.87
+2026-09-09,Paid Search,desktop,83,48,3,137.06
+2026-09-09,Paid Social,mobile,234,84,1,47.31
+2026-09-09,Paid Social,desktop,103,37,1,52.86
+2026-09-09,Organic Social,mobile,101,53,1,49.55
+2026-09-09,Organic Social,desktop,50,26,1,49.72
+2026-09-09,Email,mobile,73,50,3,130.64
+2026-09-09,Email,desktop,33,22,2,87.63
+2026-09-09,Direct,mobile,201,113,7,303.68
+2026-09-09,Direct,desktop,86,51,3,148.08
+2026-09-09,Referral,mobile,50,30,1,50.48
+2026-09-09,Referral,desktop,19,12,0,0.0
+2026-09-09,Unassigned,mobile,30,11,0,0.0
+2026-09-09,Unassigned,desktop,13,5,0,0.0
+2026-09-10,Organic Search,mobile,349,237,10,425.69
+2026-09-10,Organic Search,desktop,134,86,5,277.24
+2026-09-10,Paid Search,mobile,179,111,7,312.57
+2026-09-10,Paid Search,desktop,96,57,4,178.02
+2026-09-10,Paid Social,mobile,261,98,1,50.94
+2026-09-10,Paid Social,desktop,109,41,1,54.36
+2026-09-10,Organic Social,mobile,98,49,1,46.73
+2026-09-10,Organic Social,desktop,46,25,1,46.93
+2026-09-10,Email,mobile,66,49,3,141.61
+2026-09-10,Email,desktop,35,24,2,101.04
+2026-09-10,Direct,mobile,183,103,7,384.76
+2026-09-10,Direct,desktop,78,47,3,142.68
+2026-09-10,Referral,mobile,50,33,1,49.25
+2026-09-10,Referral,desktop,25,15,1,45.11
+2026-09-10,Unassigned,mobile,30,11,0,0.0
+2026-09-10,Unassigned,desktop,12,4,0,0.0
+2026-09-11,Organic Search,mobile,293,184,9,395.44
+2026-09-11,Organic Search,desktop,148,98,4,213.42
+2026-09-11,Paid Search,mobile,178,107,8,418.24
+2026-09-11,Paid Search,desktop,101,63,4,214.24
+2026-09-11,Paid Social,mobile,255,97,2,100.67
+2026-09-11,Paid Social,desktop,107,41,1,43.1
+2026-09-11,Organic Social,mobile,94,50,1,53.44
+2026-09-11,Organic Social,desktop,50,26,1,45.17
+2026-09-11,Email,mobile,73,52,3,158.65
+2026-09-11,Email,desktop,31,21,1,49.56
+2026-09-11,Direct,mobile,160,92,5,213.54
+2026-09-11,Direct,desktop,90,51,3,151.0
+2026-09-11,Referral,mobile,46,28,1,47.52
+2026-09-11,Referral,desktop,19,11,1,42.69
+2026-09-11,Unassigned,mobile,26,9,0,0.0
+2026-09-11,Unassigned,desktop,11,4,0,0.0
+2026-09-12,Organic Search,mobile,299,191,10,522.99
+2026-09-12,Organic Search,desktop,124,78,4,186.11
+2026-09-12,Paid Search,mobile,200,116,9,431.37
+2026-09-12,Paid Search,desktop,79,47,3,127.02
+2026-09-12,Paid Social,mobile,199,79,1,55.86
+2026-09-12,Paid Social,desktop,97,35,1,53.45
+2026-09-12,Organic Social,mobile,86,44,1,53.94
+2026-09-12,Organic Social,desktop,39,19,1,54.97
+2026-09-12,Email,mobile,68,49,3,155.14
+2026-09-12,Email,desktop,25,17,1,44.93
+2026-09-12,Direct,mobile,158,88,6,273.73
+2026-09-12,Direct,desktop,73,43,2,103.57
+2026-09-12,Referral,mobile,35,22,1,42.61
+2026-09-12,Referral,desktop,17,10,1,50.65
+2026-09-12,Unassigned,mobile,20,8,0,0.0
+2026-09-12,Unassigned,desktop,10,4,0,0.0
+2026-09-13,Organic Search,mobile,244,166,8,361.89
+2026-09-13,Organic Search,desktop,129,89,4,185.67
+2026-09-13,Paid Search,mobile,196,119,7,343.06
+2026-09-13,Paid Search,desktop,82,52,3,136.39
+2026-09-13,Paid Social,mobile,212,79,1,44.2
+2026-09-13,Paid Social,desktop,94,35,1,45.31
+2026-09-13,Organic Social,mobile,108,56,1,50.76
+2026-09-13,Organic Social,desktop,49,26,1,42.41
+2026-09-13,Email,mobile,62,43,2,109.12
+2026-09-13,Email,desktop,30,20,1,55.45
+2026-09-13,Direct,mobile,161,94,5,226.83
+2026-09-13,Direct,desktop,65,39,3,139.83
+2026-09-13,Referral,mobile,41,25,1,49.58
+2026-09-13,Referral,desktop,20,13,1,51.87
+2026-09-13,Unassigned,mobile,23,8,0,0.0
+2026-09-13,Unassigned,desktop,10,4,0,0.0
+2026-09-14,Organic Search,mobile,329,226,9,418.02
+2026-09-14,Organic Search,desktop,169,114,6,325.93
+2026-09-14,Paid Search,mobile,195,117,8,440.58
+2026-09-14,Paid Search,desktop,105,66,4,211.63
+2026-09-14,Paid Social,mobile,211,77,1,50.57
+2026-09-14,Paid Social,desktop,104,39,1,45.25
+2026-09-14,Organic Social,mobile,114,58,1,48.67
+2026-09-14,Organic Social,desktop,50,26,1,47.24
+2026-09-14,Email,mobile,76,53,3,134.12
+2026-09-14,Email,desktop,28,20,1,45.78
+2026-09-14,Direct,mobile,172,102,7,368.26
+2026-09-14,Direct,desktop,7972,159,3,162.42
+2026-09-14,Referral,mobile,46,28,1,45.45
+2026-09-14,Referral,desktop,21,12,1,47.33
+2026-09-14,Unassigned,mobile,25,10,0,0.0
+2026-09-14,Unassigned,desktop,12,4,0,0.0
+2026-09-15,Organic Search,mobile,318,216,9,503.48
+2026-09-15,Organic Search,desktop,152,99,5,249.04
+2026-09-15,Paid Search,mobile,200,123,7,322.54
+2026-09-15,Paid Search,desktop,91,54,4,193.84
+2026-09-15,Paid Social,mobile,232,89,1,49.24
+2026-09-15,Paid Social,desktop,100,39,1,52.12
+2026-09-15,Organic Social,mobile,95,50,1,51.75
+2026-09-15,Organic Social,desktop,45,23,1,44.5
+2026-09-15,Email,mobile,71,51,3,145.1
+2026-09-15,Email,desktop,30,21,2,106.3
+2026-09-15,Direct,mobile,188,104,6,289.75
+2026-09-15,Direct,desktop,79,45,3,159.22
+2026-09-15,Referral,mobile,46,30,1,47.33
+2026-09-15,Referral,desktop,23,15,1,51.23
+2026-09-15,Unassigned,mobile,24,9,0,0.0
+2026-09-15,Unassigned,desktop,12,4,0,0.0
+2026-09-16,Organic Search,mobile,333,211,9,403.56
+2026-09-16,Organic Search,desktop,156,100,5,269.88
+2026-09-16,Paid Search,mobile,201,116,9,407.97
+2026-09-16,Paid Search,desktop,96,58,4,172.45
+2026-09-16,Paid Social,mobile,244,90,1,50.68
+2026-09-16,Paid Social,desktop,113,44,1,44.08
+2026-09-16,Organic Social,mobile,112,55,1,51.34
+2026-09-16,Organic Social,desktop,55,28,1,42.69
+2026-09-16,Email,mobile,67,46,3,151.67
+2026-09-16,Email,desktop,34,24,2,88.97
+2026-09-16,Direct,mobile,173,101,7,303.13
+2026-09-16,Direct,desktop,77,44,3,128.84
+2026-09-16,Referral,mobile,44,27,1,43.88
+2026-09-16,Referral,desktop,22,13,1,49.35
+2026-09-16,Unassigned,mobile,28,11,0,0.0
+2026-09-16,Unassigned,desktop,13,5,0,0.0
+2026-09-17,Organic Search,mobile,361,249,11,555.76
+2026-09-17,Organic Search,desktop,142,93,5,234.77
+2026-09-17,Paid Search,mobile,176,108,7,355.92
+2026-09-17,Paid Search,desktop,93,54,4,207.68
+2026-09-17,Paid Social,mobile,270,97,1,50.76
+2026-09-17,Paid Social,desktop,98,38,1,55.99
+2026-09-17,Organic Social,mobile,103,52,1,50.93
+2026-09-17,Organic Social,desktop,42,21,0,0.0
+2026-09-17,Email,mobile,64,45,3,126.26
+2026-09-17,Email,desktop,34,23,2,101.25
+2026-09-17,Direct,mobile,150,84,5,233.66
+2026-09-17,Direct,desktop,86,51,3,153.12
+2026-09-17,Referral,mobile,45,28,1,49.52
+2026-09-17,Referral,desktop,20,12,1,52.4
+2026-09-17,Unassigned,mobile,29,11,0,0.0
+2026-09-17,Unassigned,desktop,12,4,0,0.0
+2026-09-18,Organic Search,mobile,355,230,13,597.04
+2026-09-18,Organic Search,desktop,128,88,4,215.17
+2026-09-18,Paid Search,mobile,201,121,8,432.83
+2026-09-18,Paid Search,desktop,99,61,4,169.77
+2026-09-18,Paid Social,mobile,229,86,1,48.33
+2026-09-18,Paid Social,desktop,125,46,1,43.57
+2026-09-18,Organic Social,mobile,115,61,2,96.43
+2026-09-18,Organic Social,desktop,42,21,1,44.66
+2026-09-18,Email,mobile,76,55,3,158.57
+2026-09-18,Email,desktop,28,20,1,55.13
+2026-09-18,Direct,mobile,183,102,7,339.02
+2026-09-18,Direct,desktop,87,50,3,165.16
+2026-09-18,Referral,mobile,48,30,1,48.54
+2026-09-18,Referral,desktop,18,11,1,46.37
+2026-09-18,Unassigned,mobile,27,10,0,0.0
+2026-09-18,Unassigned,desktop,11,4,0,0.0
+2026-09-19,Organic Search,mobile,245,156,7,295.5
+2026-09-19,Organic Search,desktop,135,89,4,187.62
+2026-09-19,Paid Search,mobile,162,95,7,321.76
+2026-09-19,Paid Search,desktop,74,43,3,140.23
+2026-09-19,Paid Social,mobile,201,73,1,51.46
+2026-09-19,Paid Social,desktop,84,30,0,0.0
+2026-09-19,Organic Social,mobile,95,49,1,51.79
+2026-09-19,Organic Social,desktop,45,22,1,51.98
+2026-09-19,Email,mobile,62,44,3,157.74
+2026-09-19,Email,desktop,27,18,1,54.88
+2026-09-19,Direct,mobile,150,86,6,311.66
+2026-09-19,Direct,desktop,70,39,2,108.11
+2026-09-19,Referral,mobile,41,26,1,51.79
+2026-09-19,Referral,desktop,19,12,1,48.35
+2026-09-19,Unassigned,mobile,19,7,0,0.0
+2026-09-19,Unassigned,desktop,9,3,0,0.0
+2026-09-20,Organic Search,mobile,243,165,8,372.5
+2026-09-20,Organic Search,desktop,135,91,4,190.45
+2026-09-20,Paid Search,mobile,166,102,7,389.44
+2026-09-20,Paid Search,desktop,77,46,3,150.82
+2026-09-20,Paid Social,mobile,221,83,1,49.62
+2026-09-20,Paid Social,desktop,88,33,0,0.0
+2026-09-20,Organic Social,mobile,94,48,1,48.48
+2026-09-20,Organic Social,desktop,44,23,0,0.0
+2026-09-20,Email,mobile,51,34,3,158.4
+2026-09-20,Email,desktop,26,18,1,43.27
+2026-09-20,Direct,mobile,165,99,6,305.44
+2026-09-20,Direct,desktop,60,33,2,98.88
+2026-09-20,Referral,mobile,38,24,1,51.54
+2026-09-20,Referral,desktop,17,10,1,46.26
+2026-09-20,Unassigned,mobile,26,10,0,0.0
+2026-09-20,Unassigned,desktop,9,3,0,0.0
+2026-09-21,Organic Search,mobile,279,180,9,447.16
+2026-09-21,Organic Search,desktop,128,86,4,188.12
+2026-09-21,Paid Search,mobile,215,135,8,414.65
+2026-09-21,Paid Search,desktop,88,52,3,142.03
+2026-09-21,Paid Social,mobile,235,90,1,44.64
+2026-09-21,Paid Social,desktop,105,41,1,44.16
+2026-09-21,Organic Social,mobile,120,63,1,43.0
+2026-09-21,Organic Social,desktop,42,22,1,48.11
+2026-09-21,Email,mobile,77,52,4,191.29
+2026-09-21,Email,desktop,31,22,1,47.96
+2026-09-21,Direct,mobile,155,89,6,289.8
+2026-09-21,Direct,desktop,77,43,3,150.27
+2026-09-21,Referral,mobile,49,30,1,47.75
+2026-09-21,Referral,desktop,21,13,1,49.95
+2026-09-21,Unassigned,mobile,27,10,0,0.0
+2026-09-21,Unassigned,desktop,11,4,0,0.0
+2026-09-22,Organic Search,mobile,339,222,9,490.13
+2026-09-22,Organic Search,desktop,129,84,4,221.78
+2026-09-22,Paid Search,mobile,169,104,8,371.0
+2026-09-22,Paid Search,desktop,78,46,3,145.69
+2026-09-22,Paid Social,mobile,231,87,1,47.89
+2026-09-22,Paid Social,desktop,123,48,1,42.49
+2026-09-22,Organic Social,mobile,117,62,1,49.89
+2026-09-22,Organic Social,desktop,42,21,0,0.0
+2026-09-22,Email,mobile,76,55,4,184.06
+2026-09-22,Email,desktop,27,19,1,45.89
+2026-09-22,Direct,mobile,152,86,6,253.19
+2026-09-22,Direct,desktop,71,39,3,132.35
+2026-09-22,Referral,mobile,44,28,1,51.81
+2026-09-22,Referral,desktop,20,12,1,46.8
+2026-09-22,Unassigned,mobile,22,8,0,0.0
+2026-09-22,Unassigned,desktop,12,5,0,0.0
+2026-09-23,Organic Search,mobile,306,204,9,470.53
+2026-09-23,Organic Search,desktop,139,93,5,218.12
+2026-09-23,Paid Search,mobile,173,104,7,367.12
+2026-09-23,Paid Search,desktop,97,59,4,207.51
+2026-09-23,Paid Social,mobile,228,83,2,84.33
+2026-09-23,Paid Social,desktop,122,46,1,55.46
+2026-09-23,Organic Social,mobile,109,54,1,50.92
+2026-09-23,Organic Social,desktop,55,28,1,54.02
+2026-09-23,Email,mobile,63,43,2,102.32
+2026-09-23,Email,desktop,30,21,1,52.28
+2026-09-23,Direct,mobile,175,98,6,309.98
+2026-09-23,Direct,desktop,72,41,3,160.93
+2026-09-23,Referral,mobile,38,22,1,48.24
+2026-09-23,Referral,desktop,19,11,0,0.0
+2026-09-23,Unassigned,mobile,22,9,0,0.0
+2026-09-23,Unassigned,desktop,13,5,0,0.0
+2026-09-24,Organic Search,mobile,343,218,11,600.58
+2026-09-24,Organic Search,desktop,148,102,5,258.7
+2026-09-24,Paid Search,mobile,177,107,8,407.54
+2026-09-24,Paid Search,desktop,101,60,4,218.59
+2026-09-24,Paid Social,mobile,247,92,1,43.04
+2026-09-24,Paid Social,desktop,116,43,1,42.84
+2026-09-24,Organic Social,mobile,117,59,1,48.88
+2026-09-24,Organic Social,desktop,54,28,1,48.89
+2026-09-24,Email,mobile,59,43,2,102.01
+2026-09-24,Email,desktop,35,25,1,43.02
+2026-09-24,Direct,mobile,173,97,6,327.31
+2026-09-24,Direct,desktop,71,41,3,153.91
+2026-09-24,Referral,mobile,41,26,1,50.04
+2026-09-24,Referral,desktop,20,13,1,48.1
+2026-09-24,Unassigned,mobile,28,11,0,0.0
+2026-09-24,Unassigned,desktop,10,4,0,0.0
+2026-09-25,Organic Search,mobile,314,216,10,515.46
+2026-09-25,Organic Search,desktop,140,93,5,216.35
+2026-09-25,Paid Search,mobile,193,123,7,339.04
+2026-09-25,Paid Search,desktop,97,60,4,170.2
+2026-09-25,Paid Social,mobile,219,80,1,54.55
+2026-09-25,Paid Social,desktop,111,41,1,50.86
+2026-09-25,Organic Social,mobile,110,55,1,52.08
+2026-09-25,Organic Social,desktop,49,25,1,49.57
+2026-09-25,Email,mobile,62,44,3,144.87
+2026-09-25,Email,desktop,35,23,1,53.03
+2026-09-25,Direct,mobile,145,80,6,308.05
+2026-09-25,Direct,desktop,78,46,3,132.26
+2026-09-25,Referral,mobile,45,29,1,43.98
+2026-09-25,Referral,desktop,21,13,1,42.64
+2026-09-25,Unassigned,mobile,27,10,0,0.0
+2026-09-25,Unassigned,desktop,11,4,0,0.0
+2026-09-26,Organic Search,mobile,274,186,8,391.68
+2026-09-26,Organic Search,desktop,137,87,5,239.83
+2026-09-26,Paid Search,mobile,180,115,8,372.31
+2026-09-26,Paid Search,desktop,88,54,3,161.13
+2026-09-26,Paid Social,mobile,214,83,1,46.7
+2026-09-26,Paid Social,desktop,82,30,0,0.0
+2026-09-26,Organic Social,mobile,90,46,1,42.57
+2026-09-26,Organic Social,desktop,36,19,0,0.0
+2026-09-26,Email,mobile,48,34,2,89.02
+2026-09-26,Email,desktop,23,16,1,47.83
+2026-09-26,Direct,mobile,159,94,6,269.32
+2026-09-26,Direct,desktop,71,41,2,110.27
+2026-09-26,Referral,mobile,39,23,1,49.0
+2026-09-26,Referral,desktop,20,12,1,46.87
+2026-09-26,Unassigned,mobile,18,7,0,0.0
+2026-09-26,Unassigned,desktop,9,3,0,0.0
+2026-09-27,Organic Search,mobile,243,164,8,366.96
+2026-09-27,Organic Search,desktop,113,76,4,222.24
+2026-09-27,Paid Search,mobile,163,96,7,298.23
+2026-09-27,Paid Search,desktop,80,47,3,140.04
+2026-09-27,Paid Social,mobile,214,83,1,52.37
+2026-09-27,Paid Social,desktop,104,38,1,48.79
+2026-09-27,Organic Social,mobile,78,42,1,50.3
+2026-09-27,Organic Social,desktop,39,19,0,0.0
+2026-09-27,Email,mobile,61,42,2,104.66
+2026-09-27,Email,desktop,29,20,1,48.59
+2026-09-27,Direct,mobile,144,86,5,274.95
+2026-09-27,Direct,desktop,67,38,2,104.15
+2026-09-27,Referral,mobile,39,25,1,43.78
+2026-09-27,Referral,desktop,18,10,0,0.0
+2026-09-27,Unassigned,mobile,21,8,0,0.0
+2026-09-27,Unassigned,desktop,10,4,0,0.0
+2026-09-28,Organic Search,mobile,274,189,10,432.11
+2026-09-28,Organic Search,desktop,158,104,6,301.69
+2026-09-28,Paid Search,mobile,207,123,9,470.76
+2026-09-28,Paid Search,desktop,81,48,3,163.46
+2026-09-28,Paid Social,mobile,230,84,1,42.07
+2026-09-28,Paid Social,desktop,120,43,1,52.76
+2026-09-28,Organic Social,mobile,87,45,1,53.17
+2026-09-28,Organic Social,desktop,52,26,1,49.82
+2026-09-28,Email,mobile,55,39,3,131.57
+2026-09-28,Email,desktop,28,20,1,48.72
+2026-09-28,Direct,mobile,156,92,6,314.77
+2026-09-28,Direct,desktop,67,38,3,162.72
+2026-09-28,Referral,mobile,42,27,1,48.5
+2026-09-28,Referral,desktop,21,13,1,54.51
+2026-09-28,Unassigned,mobile,24,9,0,0.0
+2026-09-28,Unassigned,desktop,13,5,0,0.0

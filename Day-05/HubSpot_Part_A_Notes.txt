@@ -1,0 +1,28 @@
+HubSpot Part A — setup notes
+
+Import file: HubSpot_Import_50.csv
+Record count: 50 practice contacts
+Map fields:
+- first_name → First name
+- email → Email
+- orders_12m → create Number property “orders_12m”
+- revenue_12m_usd → create Number property “revenue_12m_usd”
+- last_order_date → map/create Date property “last_order_date”
+
+Expected active segment counts from these 50 rows:
+- Champions: orders_12m is greater than or equal to 8 → 12 contacts
+- At risk: orders_12m is greater than or equal to 3 AND last_order_date is before 2026-07-03 → 11 contacts
+
+Marketing email draft (send a test to your own address only; do not send to the list):
+Subject: Your next step with Doomsday
+
+Hi {{ contact.firstname }},
+
+Thanks for being part of the Doomsday community. We’ll share useful updates and practical ideas to help you get more from your experience. You can unsubscribe at any time.
+
+Your next step: explore the latest guide and choose one idea to try this week.
+
+Best,
+The Doomsday Team
+
+These are prepared values and copy, not proof that HubSpot import, segments, or test email have been completed in the account.

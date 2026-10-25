@@ -1,0 +1,11 @@
+path_id,path,touches,conversion_value_usd
+P1,Paid Social > Organic Search > Email > Direct,4,120
+P2,Organic Search > Direct,2,80
+P3,Paid Search,1,60
+P4,Paid Social > Paid Social > Paid Search,3,100
+P5,Email > Direct,2,90
+P6,Organic Social > Paid Social > Organic Search > Paid Search,4,150
+P7,Referral > Email,2,70
+P8,Paid Search > Email > Email > Direct,4,110
+P9,Paid Social > Direct,2,50
+P10,Organic Search > Paid Search > Direct,3,130
